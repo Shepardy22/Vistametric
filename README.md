@@ -1,11 +1,6 @@
 
 # 🌐 Vistametric v2.0
 
-![Next.js](https://img.shields.io/badge/Next.js-16-blue?logo=next.js)
-![Three.js](https://img.shields.io/badge/Three.js-3D-black?logo=three.js)
-![React](https://img.shields.io/badge/React-19-blue?logo=react)
-![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 <p align="center">
     <img src="/public/assets/app-demo.png" alt="Vistametric Banner" width="80%"/>
@@ -19,7 +14,7 @@
 
 ## 🚀 Testar Online
 
-👉 [Acesse a aplicação online](https://vistametric.vercel.app/)
+👉 <a href="https://vistametric.vercel.app/" target="_blank" rel="noopener noreferrer">Acesse a aplicação online</a>
 
 ---
 
