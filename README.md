@@ -145,14 +145,5 @@ O Vistametric opera em dois modos:
 - **Visualizador**: Interface limpa, apenas navegação e visualização.
 Toda configuração é salva em `project_config.json` e os arquivos são armazenados em pastas públicas.
 
----
 
-
-
-
-
-> [!IMPORTANT]
-> **Nota de Experimento**: Este projeto foi desenvolvido 100% usando Inteligência Artificial via Antigravity (Google DeepMind) para testar a capacidade, precisão e velocidade extrema na criação de um MVP complexo em regime no-code assistido.
-
----
 
