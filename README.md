@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <b>Visualização e mapeamento 3D imersivo para ambientes profissionais.</b>
+    <b>Visualização e mapeamento 3D imersivo para apresentação de ambientes </b>
 </p>
 
 ---
